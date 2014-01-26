@@ -1,2 +1,2 @@
-stockwatcher
-============
+Stock Watcher
+=============
