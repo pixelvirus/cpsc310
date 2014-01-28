@@ -1,0 +1,6 @@
+gwt-unitCache/
+test-classes/
+war/WEB-INF/classes/
+war/gitlab/
+
+.gwt/.gwt-log
